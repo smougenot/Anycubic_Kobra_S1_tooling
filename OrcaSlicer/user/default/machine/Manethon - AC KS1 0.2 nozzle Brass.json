@@ -1,0 +1,19 @@
+{
+    "from": "User",
+    "inherits": "Anycubic Kobra S1 0.4 nozzle",
+    "max_layer_height": [
+        "0.14"
+    ],
+    "min_layer_height": [
+        "0.04"
+    ],
+    "name": "Manethon - AC KS1 0.2 nozzle Brass",
+    "nozzle_diameter": [
+        "0.25"
+    ],
+    "printer_settings_id": "Manethon - AC KS1 0.2 nozzle Brass",
+    "retraction_length": [
+        "0.4"
+    ],
+    "version": "1.3.2503.3"
+}

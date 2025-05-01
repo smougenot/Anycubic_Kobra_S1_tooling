@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Anycubic Kobra S1 0.4 nozzle by object Copy",
+    "print_sequence": "by object",
+    "print_settings_id": "0.20mm Standard @Anycubic Kobra S1 0.4 nozzle by object Copy",
+    "version": "2.3.0.3"
+}

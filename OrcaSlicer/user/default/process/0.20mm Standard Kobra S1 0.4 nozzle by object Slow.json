@@ -1,0 +1,14 @@
+{
+    "default_acceleration": "5000",
+    "from": "User",
+    "inherits": "0.20mm Standard @Anycubic Kobra S1 0.4 nozzle",
+    "inner_wall_speed": "200",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard Kobra S1 0.4 nozzle by object Slow",
+    "print_sequence": "by object",
+    "print_settings_id": "0.20mm Standard Kobra S1 0.4 nozzle by object Slow",
+    "seam_position": "random",
+    "travel_acceleration": "5000",
+    "travel_speed": "200",
+    "version": "2.3.0.3"
+}

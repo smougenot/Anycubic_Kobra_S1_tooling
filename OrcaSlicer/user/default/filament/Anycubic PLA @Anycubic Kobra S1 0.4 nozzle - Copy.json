@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "Anycubic PLA @Anycubic Kobra S1 0.4 nozzle - Copy"
+    ],
+    "from": "User",
+    "inherits": "Anycubic PLA @Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Anycubic PLA @Anycubic Kobra S1 0.4 nozzle - Copy",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "version": "2.3.0.3"
+}

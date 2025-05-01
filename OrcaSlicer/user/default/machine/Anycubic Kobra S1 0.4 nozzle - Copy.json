@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Anycubic Kobra S1 0.4 nozzle - Copy",
+    "printer_settings_id": "Anycubic Kobra S1 0.4 nozzle - Copy",
+    "version": "2.3.0.3"
+}
